@@ -1,0 +1,8 @@
+INTSTYLE=pa
+INFILE=C:\Xilinx\Projects\zed_first\zed_first.runs\impl_1\proc_module_stub_routed.ncd
+OUTFILE=C:\Xilinx\Projects\zed_first\zed_first.runs\impl_1\proc_module_stub.bit
+FAMILY=Zynq
+PART=xc7z020-1clg484
+WORKINGDIR=C:\Xilinx\Projects\zed_first\zed_first.runs\impl_1
+LICENSE=ISE
+USER_INFO=206763326_127455_210178093_924
